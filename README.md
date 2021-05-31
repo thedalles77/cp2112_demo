@@ -26,4 +26,4 @@ Push any key to continue . . .
 - Texas Instruments bq20z65-R1 Gas Gauge: http://www.ti.com/product/bq20z65-r1 or similar Battery Management Chip within the laptop battery.
 - Windows 10 64-bit  
 - Visual Studio 2019 is only needed if you want to modify the C code. 
-- If no mod's are needed, run the cp2112_demo.exe from a folder that also contains the two .dll files.
+- If no mod's are needed, run the cp2112_demo.exe from a folder that also contains the two .dll files found here: https://github.com/thedalles77/cp2112_demo/tree/master/cp2112_demo/lib/x64
