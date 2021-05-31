@@ -19,11 +19,10 @@ If using the Silicon Laps CP2112EK evaluation kit:
 *Remaining Capacity = 2610 mAh*  
 *Average Time to Empty = 166 minutes*  
 *Temperature = 25 C*  
-*Push any key to continue . . . *  
+Push any key to continue . . .   
 
 **Tools/Environment:**  
-- Silicon Labs CP2112EK: http://www.silabs.com/products/interface/Pages/CP2112EK.aspx or build the CP2112 circuit board shown in step 15 of:
-- https://www.instructables.com/Battery-Powered-Raspberry-Pi-in-Repurposed-Laptop/
+- Silicon Labs CP2112EK: http://www.silabs.com/products/interface/Pages/CP2112EK.aspx or build the CP2112 circuit board shown in step 15 of: https://www.instructables.com/Battery-Powered-Raspberry-Pi-in-Repurposed-Laptop/
 - Texas Instruments bq20z65-R1 Gas Gauge: http://www.ti.com/product/bq20z65-r1 or similar Battery Management Chip within the laptop battery.
 - Windows 10 64-bit  
 - Visual Studio 2019 is only needed if you want to modify the C code. 
