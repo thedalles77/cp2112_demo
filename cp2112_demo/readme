@@ -1,0 +1,5 @@
+The C file cp2112_demo.c has been modified from Nickdademo's original. 
+It no longer tries to communicate with the battery charger, only the battery.
+You can see the original code that has been commented out.
+Reading the Temperature has been added.
+If charging, is gives the time to full, else it gives the time to empty.
