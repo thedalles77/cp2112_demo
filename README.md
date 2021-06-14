@@ -1,5 +1,4 @@
 This code was forked from Nick Dademo's repo and modified to show more battery registers.
-
 ===========
 If using the CP2112 circuit board from step 15 of: https://www.instructables.com/Battery-Powered-Raspberry-Pi-in-Repurposed-Laptop/ 
 * Wire the clock, data, and ground from the board to the cooresponding laptop battery connector pins. 
